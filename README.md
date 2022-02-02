@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codehouze)](https://github.com/Codehouze/github-readme-stats)
 ### 📊 Github Stats
 <a href='https://github.com/Codehouze/github-stats-transparent'>
   
