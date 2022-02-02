@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Emmanuel Maxwell <a href="https://www.linkedin.com/in/codehouze/"><img color="blue" align="right" src="https://github.com/Codehouze/Codehouze/blob/main/assets/linkedin.svg" height="18px" /></a><a href="https://twitter.com/codehouze"><img color="blue" align="right"  src="https://github.com/Codehouze/Codehouze/blob/main/assets/twitter.svg" height="18px" /></a>
+## Hi there 👋 I'm Emmanuel Maxwell <a href="https://www.linkedin.com/in/codehouze/"><img align="right" src="https://github.com/Codehouze/Codehouze/blob/main/assets/linkedin.svg" height="18px" /></a><a href="https://twitter.com/codehouze"><img align="right"  src="https://github.com/Codehouze/Codehouze/blob/main/assets/twitter.svg" height="18px" /></a>
 
 <br>
 
@@ -11,8 +11,8 @@
 
 - 🔭 &nbsp; I’m currently working on Feedback-App
 - 🌱 &nbsp; I’m currently learning React
-- 👯 &nbsp; I’m looking to collaborate on ...
-- 🤔 &nbsp; I’m looking for help with ...
+- 👯 &nbsp; I’m looking to collaborate on a Project.
+- 🤔 &nbsp; I’m looking for a Remote Job.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/codehouze/"/>Linkedin</a>
 - 😄 &nbsp; Pronouns: He/Him
