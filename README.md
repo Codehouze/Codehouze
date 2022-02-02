@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 ### Active Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehouze&repo=Feedback-App)](https://github.com/codehouze/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehouze&repo=Feedback-App)](https://github.com/Codehouze/Feedback-App)
 
 
 ### What i do for fun ⚡ ?
