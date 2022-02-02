@@ -38,10 +38,14 @@ Here are some ideas to get you started:
 
 ### 📊 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codehouze&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codehouze&layout=compact)](https://github.com/codehouze/github-readme-stats)
+
 
 ### Active Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehouze&repo=Feedback-App)](https://github.com/codehouze/github-readme-stats)
+
 
 ### What i do for fun ⚡ ?
 - listening to Music
