@@ -38,12 +38,6 @@ Here are some ideas to get you started:
 ### 📊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codehouze)](https://github.com/Codehouze/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehouze&repo=feedback)](https://github.com/codehouze/github-readme-stats)
-
-![Stats Overview](https://raw.githubusercontent.com/Codehouze/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Codehouze/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
 
 ### What i do for fun ⚡ ?
