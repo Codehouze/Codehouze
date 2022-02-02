@@ -36,6 +36,15 @@ Here are some ideas to get you started:
 
 <br>
 
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+
 ### What i do for fun ⚡ ?
 - listening to Music
 - Playing Games
