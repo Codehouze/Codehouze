@@ -1,5 +1,5 @@
 ## Hi there 👋 i am Emmanuel Maxwell
-<a href="http://"><img align="left" src="http://raw.githubusercontent.com/codehouze/codehouze/assets/linkedin.svg" height="18px"></a>
+<a href="http://"><img align="left" src="http://github.com/codehouze/codehouze/assets/linkedin.svg" height="18px"></a>
 <a href="http://"><img align="left" src="http://raw.githubusercontent.com/codehouze/codehouze/assets/twitter.svg" height="18px"></a>
 
 
