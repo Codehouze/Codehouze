@@ -6,7 +6,7 @@
 
 ### 🧐 More About Me:
 - I am a backend developer with experience in developing web services in a variety of domains and tech stacks. My strongest skills are Node.js,TypeScript and    React.js, and I’m experienced in designing system architectures and solutions for rapid scaling. I have significant experience working in startups and fast-moving teams with fixed deadlines. I am very flexible with different technologies and methodologies, so I’m able to learn and adapt to new environments quickly.
-<img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px" style="border: 1px solid black" border-radius="20px"/>
+<img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px" style="border-radius: 20px solid black" />
 
 
 <!--
