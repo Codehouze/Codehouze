@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Emmanuel Maxwell 
 <a href="https://www.linkedin.com/in/codehouze/"><img align="left" src="https://github.com/Codehouze/Codehouze/blob/main/assets/linkedin.svg" height="18px" /></a>
-<a href="https://twitter.com/codehouze"><img align="left" border-radius="20px src="https://github.com/Codehouze/Codehouze/blob/main/assets/twitter.svg" height="18px" /></a>
+<a href="https://twitter.com/codehouze"><img align="left"  src="https://github.com/Codehouze/Codehouze/blob/main/assets/twitter.svg" height="18px" /></a>
 
 <br/>
 
 ### 🧐 More About Me:
 - I am a backend developer with experience in developing web services in a variety of domains and tech stacks. My strongest skills are Node.js,TypeScript and    React.js, and I’m experienced in designing system architectures and solutions for rapid scaling. I have significant experience working in startups and fast-moving teams with fixed deadlines. I am very flexible with different technologies and methodologies, so I’m able to learn and adapt to new environments quickly.
-<img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px" border-radius="20px/>
 
 
 <!--
