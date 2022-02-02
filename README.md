@@ -35,12 +35,11 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
+### 📊 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codehouze)](https://github.com/Codehouze/github-readme-stats)
 
-### 📊 Github Stats
-<a href='https://github.com/Codehouze/github-stats-transparent'>
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehouze&repo=feedback)](https://github.com/codehouze/github-readme-stats)
+
 ![Stats Overview](https://raw.githubusercontent.com/Codehouze/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Codehouze/github-stats-transparent/output/generated/languages.svg)
 
