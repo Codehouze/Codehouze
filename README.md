@@ -7,8 +7,6 @@
 
 ### 🧐 More About Me:
 - I am a backend developer with experience in developing web services in a variety of domains and tech stacks. My strongest skills are Node.js,TypeScript and    React.js, and I’m experienced in designing system architectures and solutions for rapid scaling. I have significant experience working in startups and fast-moving teams with fixed deadlines. I am very flexible with different technologies and methodologies, so I’m able to learn and adapt to new environments quickly.
-
-
 <img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px"/>
 
 <!--
@@ -25,7 +23,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📊 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codehouze&show_icons=true&theme=radical)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codehouze&layout=compact)](https://github.com/codehouze/github-readme-stats)
+
+
+### Active Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehouze&repo=Feedback-App)](https://github.com/Codehouze/Feedback-App)
 
 ### 🔨 Languages and Tools:
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
@@ -37,18 +43,6 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
-
-### 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codehouze&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codehouze&layout=compact)](https://github.com/codehouze/github-readme-stats)
-
-
-### Active Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehouze&repo=Feedback-App)](https://github.com/Codehouze/Feedback-App)
-
 
 ### What i do for fun ⚡ ?
 - listening to Music
