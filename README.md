@@ -18,7 +18,7 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/codehouze/"/>Linkedin</a>
 - 😄 &nbsp; Pronouns: He/Him
-- ⚡ &nbsp; Fun fact: ...
+- ⚡ &nbsp; Fun fact: listening to Music,Playing Games
 
 <br>
 
@@ -42,7 +42,3 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
-### What i do for fun ⚡ ?
-- listening to Music
-- Playing Games
