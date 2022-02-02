@@ -6,6 +6,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Codehouze/techstack.gif/main/techstack.gif" width="360px"/>
 
+<img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px"/>
+
 <!--
 **Codehouze/Codehouze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
