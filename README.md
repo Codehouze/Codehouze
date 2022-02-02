@@ -18,7 +18,7 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/codehouze/"/>Linkedin</a>
 - 😄 &nbsp; Pronouns: He/Him
-- ⚡ &nbsp; Fun fact: listening to Music and Playing Games
+- ⚡ &nbsp; Fun fact: listening to Music and Playing Video Games
 
 <br>
 
