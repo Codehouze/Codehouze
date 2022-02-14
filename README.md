@@ -11,7 +11,7 @@
 
 - 🔭 &nbsp; I’m currently working on Feedback-App
 - 🌱 &nbsp; I’m currently learning React
-- 👯 &nbsp; I’m looking to collaborate on a Project.
+- 👯 &nbsp; I’m looking to collaborate on an Open Source Project.
 - 🤔 &nbsp; I’m looking for a Remote Job.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/codehouze/"/>Linkedin</a>
