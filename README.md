@@ -9,8 +9,8 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on gitHub finder Application
-- 🌱 &nbsp; I’m currently learning React
+- 🔭 &nbsp; I’m currently working on Recipe Application
+- 🌱 &nbsp; I’m currently learning Next.js
 - 👯 &nbsp; I’m looking to collaborate on an Open Source Project.
 - 🤔 &nbsp; I’m looking for a Remote Job.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
