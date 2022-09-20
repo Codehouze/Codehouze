@@ -9,7 +9,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on Recipe Application
+- 🔭 &nbsp; I’m currently working on a Wallet System
 - 🌱 &nbsp; I’m currently learning Next.js
 - 👯 &nbsp; I’m looking to collaborate on an Open Source Project.
 - 🤔 &nbsp; I’m looking for a Remote Job.
