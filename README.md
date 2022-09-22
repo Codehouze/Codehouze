@@ -2,7 +2,7 @@
 </a>
 <br>
 
-- I am a backend developer with experience in developing web services in a variety of domains and tech stacks. My strongest skills are Node.js,TypeScript and    React.js, and I’m experienced in designing system architectures and solutions for rapid scaling. I have significant experience working in startups and fast-moving teams with fixed deadlines. I am very flexible with different technologies and methodologies, so I’m able to learn and adapt to new environments quickly.
+- I'm a backend engineer with expertise building web services across a range of tech stacks and domains. My expertise in Node.js, TypeScript, and React.js is at the top of my list, and I have experience building system architectures and solutions for quick scaling. I have a lot of experience working in teams that move quickly and have set deadlines. I am quite adaptable to various technologies and processes, therefore I can pick up on new situations quickly and learn new things..
 <br>
 <br>
 <img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px" border-radius="20px" />
