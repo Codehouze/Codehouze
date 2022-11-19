@@ -24,8 +24,8 @@
 ### 📊 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codehouze&show_icons=true&theme=radical)
 
-### Badges
-[![@codehouze's Holopin board](https://holopin.me/codehouze)](https://holopin.io/@codehouze)
+<!-- ### Badges -->
+<!-- [![@codehouze's Holopin board](https://holopin.me/codehouze)](https://holopin.io/@codehouze) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codehouze&layout=compact)](https://github.com/codehouze/github-readme-stats)
 
