@@ -2,7 +2,7 @@
 </a>
 <br>
 
-- I'm a FullStack Engineer with expertise building web services across a range of tech stacks and domains. My expertise in Node.js, TypeScript, and React.js is at the top of my list, and I have experience building system architectures and solutions for quick scaling. I have a lot of experience working in teams that move quickly and have set deadlines. I am quite adaptable to various technologies and processes, therefore I can pick up on new situations quickly and learn new things..
+- I'm a FullStack Engineer with expertise building web services across a range of tech stacks and domains. My expertise in Node.js,Express,TypeScript,GraphQl, and React.js is at the top of my list, and I have experience building system architectures and solutions for quick scaling. I have a lot of experience working in teams that move quickly and have set deadlines. I am quite adaptable to various technologies and processes, therefore I can pick up on new situations quickly and learn new things..
 <br>
 <br>
 <img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px" border-radius="20px" />
