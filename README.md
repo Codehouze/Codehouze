@@ -14,7 +14,7 @@
 - 👯 &nbsp; I’m looking to collaborate on an Open Source Project.
 - 🤔 &nbsp; I’m looking for a Remote Job.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
-- 📄 &nbsp; Know about my experiences <a href="https://docs.google.com/document/d/14bFbkIxzov7quUatSd0PFQFh-nxHrlU9YYOmUWxmaq0/edit?usp=sharing"/>Resume</a>
+- 📄 &nbsp; Know about my experiences <a href="https://docs.google.com/document/d/1iBoUn4qlsPfZYrnjZeHq8Rak1bFaK_GDcy6eTRbLk-I/edit?usp=sharing"/>Resume</a>
 - 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/codehouze/"/>Linkedin</a>
 - 😄 &nbsp; Pronouns: He/Him
 - ⚡ &nbsp; Fun fact: listening to Music and Playing Video Games
