@@ -2,15 +2,15 @@
 </a>
 <br>
 
-- I am a highly skilled Full-Stack Developer with over five years of experience in developing and maintaining server-side network components and building high-performance applications. Proficient in both frontend and backend technologies, I possess a deep understanding of software engineering fundamentals and a track record of delivering high-impact products. I am committed to finding innovative solutions to complex problems and excel in collaborative environments...
+- I am a highly skilled Full-Stack Developer with over five (5)+ years of experience in developing and maintaining server-side network components and building high-performance applications. Proficient in both frontend and backend technologies, I possess a deep understanding of software engineering fundamentals and a track record of delivering high-impact products. I am committed to finding innovative solutions to complex problems and excel in collaborative environments...
 <br>
 <br>
 <img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px" border-radius="20px" />
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on a dApp
-- 🌱 &nbsp; I’m currently learning Nest.js
+- 🔭 &nbsp; I’m currently working on a Cross platform application.
+- 🌱 &nbsp; I’m currently learning React Native
 - 👯 &nbsp; I’m looking to collaborate on an Open Source Project.
 - 🤔 &nbsp; I’m looking for a Remote Job.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
